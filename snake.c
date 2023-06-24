@@ -1,6 +1,6 @@
 
 //C program for creating & simulating a Snake & Ladder Game
-// Coded by: Akash Mahesh Ganjal. /\('-')/\ 
+// Coded by: Ankit Singhal. /\('-')/\ 
 //Constraints and Rules
 /*
 1.The game will begin with any dice value.
